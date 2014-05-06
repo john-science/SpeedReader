@@ -24,7 +24,11 @@ and then run:
     scala SpeedReader
 
 ## The TODO List
+* Split words longer than 13 characters long, but do it smartly.
 * Build better support for math
 * Build better support for HTML addresses
+* Verify the text-entry is UTF-8 compliant
+* Split ALL words with hyphens? Or just some?
+* Add a help menu?
 * Prettify the UI
 

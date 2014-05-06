@@ -197,20 +197,3 @@ object SpeedReader extends SimpleSwingApplication {
     case Failure(e) => e.printStackTrace
   }
 }
-
-/**
-TODO:
- -- Split all words with hyphens, and try not to miss those double-hyphen-things: — vs -
- -- Make sure the text-entry is UTF-8 compliant! Make it easy for the user.
-        https://stackoverflow.com/questions/13815479/utf-8-support-issue-to-java-swing
- -- Add a help (pop-up) menu?
- -- The Display text box should be 30 charachters long,
-        but I should try to find ways to break up words
-        that are more than 13 characters long.
-        Break on characters: -:.,/
-        Maybe break on prefixes and suffixes.
- -- When moving forward or backwards, display the words nearby in a lighter color of gray.
-        http://www.coderanch.com/t/534337/GUI/java/Text-colours
- -- Add an optional saved-settings text file?
-*/
-
