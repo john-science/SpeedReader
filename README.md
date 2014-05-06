@@ -2,14 +2,14 @@
 #### Stop reading the old-fashioned way
 
 ## The Goal
-I use this desktop app on a daily basis to help myself read, and read faster.
+I use this desktop app on a daily basis to improve my reading comprension and speed. 
 
-Regular text stays in place and your eyes have to scan the lines. But if the words just pop up one at-a-time in front of you, you read more efficiently. You don't skip lines and futz around trying to find the start of the next one. It really helps. Also, this method allows you to set the exact number of words per minute that you want to read. And THAT is step one to training yourself to read faster.
+Regular text stays in place and your eyes have to scan over the lines. But if the words pop up one at a time on the screen, your eyes have to move less. And you don't lose time searching for the beginning of the next line.
 
-I also find reading like this improves my focus and retention.
+This also allows you to set the number of words/minute you want to read. Which is ideal if you want to build up to reading faster.
 
 ## The Program
-No frills. I wrote this little app because I needed it, not because I was interested in UI. But it works.
+No frills. I wrote this little app because I needed it.
 
 Just copy your text into the window, hit LOAD, then PLAY.
 
