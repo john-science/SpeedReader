@@ -1,7 +1,9 @@
 # SpeedReader
-#### Stop reading the old-fashioned way
+
+> Stop reading the old-fashioned way
 
 ## The Goal
+
 I use this desktop app on a daily basis to improve my reading comprension and speed. 
 
 Regular text stays in place and your eyes have to scan over the lines. But this app flashes a single word at a time on the screen. This means your eyes have to move less. And you never have to lose time searching for the beginning of the next line.
